@@ -2,7 +2,7 @@
 View .SVG files in google trends.
 
 ## Usage
-Create a new directory named "svgs" in the root folder and add your svg files named [file number].svg.
+Add your svg files named [file number].svg to the 'svgs' folder
 
 The program will send a number of frames per second to be rendered in a browser, which is 24 by default. This can be changed in line 14 of app.py. 
 
