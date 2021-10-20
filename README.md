@@ -1,5 +1,5 @@
 # Google-Trends-SVG-Viewer
-View .SVG files in google trends.
+View SVG files in google trends.
 
 ## Usage
 Add your svg files named [file number].svg to the 'svgs' folder
